@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielWray4
 - 👀 I’m interested in Programming and Video Games
-- 🌱 I’m currently learning Python and how to use Github
+- 🌱 I’m currently learning Javascript and how to use Github
 - 💞️ I’m looking to collaborate on some beginner projects
 - 📫 How to reach me: Twitter @Networkw1zard / LinkedIn: DanielSWray
 
